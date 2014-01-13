@@ -6,3 +6,5 @@ def palin():
 		print "palindrome"
 	else
 		print "not palindrome"
+
+print "hi"
