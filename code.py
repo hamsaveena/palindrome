@@ -8,4 +8,4 @@ def palin():
 	else
 		print "not palindrome"
 
-print "hi ra"
+print "hi ra. How are you?"
