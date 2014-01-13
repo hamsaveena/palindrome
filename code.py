@@ -7,4 +7,4 @@ def palin():
 	else
 		print "not palindrome"
 
-print "hi"
+print "hi ra"
